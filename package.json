@@ -1,0 +1,8 @@
+{
+  "name": "maya-calibration-tool",
+  "version": "1.0.0",
+  "description": "MAYA Zone Peer Calibration Tool — Carleton University",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.0"
+  }
+}
